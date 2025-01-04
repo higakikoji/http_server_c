@@ -1,1 +1,1 @@
-# HTTP Server by C language
+# HTTP server by C language
